@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mandar</h1>
 <h3 align="center">https://mandarnaik016.github.io/</h3>
 
-- 🔭 I’m currently working on [JavaCrypt](https://mandarnaik016.github.io/javacrypt/)
+- 🔭 I’m currently working on [JavaCrypt](https://mandarnaik016.github.io/javacrypt/index.html)
 
 - 🌱 I’m currently learning **Grunt Task Runner**
 
