@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Meta Tags Generator](https://github.com/mandarnaik016/meta-tags-generator)
 
-- 👨‍💻 All of my projects are available at [https://github.com/mandarnaik016?tab=repositories](https://github.com/mandarnaik016?tab=repositories)
+- 👨‍💻 All of my projects are available at [Projects](https://mandarnaik016.github.io/index.html#works)
 
-- 📝 I regularly write articles on [https://thenaikpost.blogspot.com/](https://thenaikpost.blogspot.com/)
+- 📝 I regularly write articles on [TheNaikPost](https://thenaikpost.blogspot.com/)
 
 - 💬 Ask me about **Jquery, Pug, Gulp, etc**
 
