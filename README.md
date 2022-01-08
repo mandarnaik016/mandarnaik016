@@ -31,6 +31,11 @@
 <h2>Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Eliminate Render Blocking Resources [JS]](https://thenaikpost.blogspot.com/2021/06/eliminate-render-blocking-resources.html)
+- [Automatic Table Of Contents For Blogger【NEW】](https://thenaikpost.blogspot.com/2021/02/automatic-table-of-contents-for-blogger.html)
+- [How To Install Anti-Adblocker In Blogger?](https://thenaikpost.blogspot.com/2020/11/anti-adblocker-script-for-blogger.html)
+- [[NEW] Lazy Load Embedded Youtube Video](https://thenaikpost.blogspot.com/2020/08/lazy-load-embedded-youtube-videos.html)
+- [[SOLVED] Eliminate Render Blocking Resources](https://thenaikpost.blogspot.com/2020/07/eliminate-render-blocking-resources-solved.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h2>Github Stats</h2>
