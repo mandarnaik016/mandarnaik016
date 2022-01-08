@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Python, Front End Web Development**
 
-- 👨‍💻 All of my projects are available at [https://mandarnaik016.github.io/] (https://mandarnaik016.github.io/)
+- 👨‍💻 All of my projects are available at [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/)
 
-- 📝 I regularly write articles on [https://thenaikpost.blogspot.com/] (https://thenaikpost.blogspot.com/)
+- 📝 I regularly write articles on [https://thenaikpost.blogspot.com/](https://thenaikpost.blogspot.com/)
 
 - 💬 Ask me about **Python, HTML, CSS, JS, etc**
 
