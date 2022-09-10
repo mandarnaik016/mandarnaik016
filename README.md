@@ -41,5 +41,4 @@
 <h2>Github Stats</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandarnaik016&layout=compact" alt="mandarnaik016" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mandarnaik016" alt="mandarnaik016" /></p>
