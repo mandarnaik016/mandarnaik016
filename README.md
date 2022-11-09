@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mandar</h1>
 <h3 align="center">A Person Who Loves Simplicity In Things!</h3>
 
-- 🔭 I’m currently working on [PassGen](https://github.com/mandarnaik016/PassGen)
+- 🔭 I’m currently working on [Pongy](https://github.com/mandarnaik016/Pongy)
 
-- 🌱 I’m currently learning **Python, Front End Web Development**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/)
 
 - 📝 I regularly write articles on [https://thenaikpost.blogspot.com/](https://thenaikpost.blogspot.com/)
 
-- 💬 Ask me about **Python, HTML, CSS, JS, etc**
+- 💬 Ask me about **HTML, CSS, JS, etc**
 
 - 📫 How to reach me **mandarnaik016@gmail.com**
 
