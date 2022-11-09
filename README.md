@@ -41,5 +41,5 @@
 <h2>Github Stats</h2>
 
 <a href="https://github.com/mandarnaik016/mandarnaik016">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mandarnaik016" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mandarnaik016&show_icons=true" />
 </a>
