@@ -74,6 +74,7 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Antivirus Evasion - XOR Encryption](https://mandarnaik016.github.io/2024-03-24-antivirus-evasion-using-xor-encryption/)
 - [Compression - The Long Way](https://mandarnaik016.github.io/2023-06-24-compression-the-long-way/)
 - [Ultimate Guide To Block Ads](https://mandarnaik016.github.io/2023-06-17-ultimate-guide-to-block-ads/)
 <!-- BLOG-POST-LIST:END -->
