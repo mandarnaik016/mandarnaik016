@@ -5,16 +5,16 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/mandarnaik016/" target="_blank">
+  <a href="https://www.linkedin.com/in/mandarnaik016/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://instagram.com/_mandar_naik_" target="_blank">
+  <a href="https://instagram.com/_mandar_naik_">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
-  <a href="https://youtube.com/@thenaikpost" target="_blank">
+  <a href="https://youtube.com/@thenaikpost">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://twitter.com/mdnaik" target="_blank">
+  <a href="https://x.com/_md_naik">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
