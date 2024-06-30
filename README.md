@@ -44,6 +44,7 @@
 ###
 
 ![](https://img.shields.io/badge/-C-085E9F?style=for-the-badge&logo=C&logoColor=fff) 
+![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=fff)
 
 ###
 
