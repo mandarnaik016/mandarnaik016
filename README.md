@@ -82,11 +82,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ###
-
 <h3 align="left">🔥  Stats</h3>
-
 ###
-
 ![mandarnaik016's Stats](https://github-readme-stats.vercel.app/api?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&count_private=true)
-
+![mandarnaik016's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandarnaik016&theme=dark&hide_border=true)
+![mandarnaik016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&layout=compact)
 ###
