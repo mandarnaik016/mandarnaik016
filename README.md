@@ -7,6 +7,7 @@
 <div align="center">
 
 [![](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mandarnaik016/) 
+[![](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=fff)](https://instagram.com/_mandar_naik_) 
 
   <a href="https://www.linkedin.com/in/mandarnaik016/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
