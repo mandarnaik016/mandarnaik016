@@ -39,17 +39,23 @@
 
 ###
 
-<h3 align="left">🛠  Language And Tools</h3>
+<h3 align="left">🛠  Tech Stack</h3>
 
 ###
 
 ![](https://img.shields.io/badge/-C-085E9F?style=for-the-badge&logo=C&logoColor=fff) 
 ![](https://img.shields.io/badge/-Python-275277?style=for-the-badge&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-Bootstrap-6E2CF5?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=fff)
 ![](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=fff)
 ![](https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=fff)
+![](https://img.shields.io/badge/-Bootstrap-6E2CF5?style=for-the-badge&logo=bootstrap&logoColor=fff)
+![](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=fff)
+![](https://img.shields.io/badge/-Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
+![](https://img.shields.io/badge/-Notepad-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=fff)
+![](https://img.shields.io/badge/-VScodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff)
+![](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=fff)
+![](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=fff)
 ![](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)
 
 ###
