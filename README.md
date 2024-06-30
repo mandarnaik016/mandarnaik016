@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/-Bootstrap-6E2CF5?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=fff)
 ![](https://img.shields.io/badge/-Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![](https://img.shields.io/badge/-Notepad-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=fff)
+![](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=fff)
 ![](https://img.shields.io/badge/-VScodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff)
 ![](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=fff)
