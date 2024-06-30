@@ -47,7 +47,7 @@
 ![](https://img.shields.io/badge/-Python-275277?style=for-the-badge&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Bootstrap-6E2CF5?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=fff)
-![](https://img.shields.io/badge/-Kali_Linux-24A4D5?style=for-the-badge&logo=kalilinux&logoColor=fff)
+![](https://img.shields.io/badge/-Kali_Linux-1C4073?style=for-the-badge&logo=kalilinux&logoColor=fff)
 
 ###
 
