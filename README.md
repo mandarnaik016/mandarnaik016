@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
   <a href="https://twitter.com/mdnaik" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=x&logo=x&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
 </div>
 
@@ -84,8 +84,8 @@
 ###
 <h3 align="left">🔥  Stats</h3>
 
+![mandarnaik016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&layout=compact)
+
 ![mandarnaik016's Stats](https://github-readme-stats.vercel.app/api?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 ![mandarnaik016's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandarnaik016&theme=dark&hide_border=true)
-
-![mandarnaik016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&layout=compact)
