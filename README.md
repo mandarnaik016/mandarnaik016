@@ -88,7 +88,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mandarnaik016&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+![mandarnaik016's Stats](https://github-readme-stats.vercel.app/api?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&count_private=true)
 </div>
 
 ###
