@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Malware Analysis - KMS](https://mandarnaik016.in/blog/2024-09-07-malware-analysis-kms/)
 - [Malware Analysis - AMSI Bypass](https://mandarnaik016.in/blog/2024-06-09-malware-analysis-amsi-bypass/)
 - [Antivirus Evasion - Divide and XOR](https://mandarnaik016.in/blog/2024-03-29-antivirus-evasion-using-divide-and-xor/)
 - [Antivirus Evasion - XOR Encryption](https://mandarnaik016.in/blog/2024-03-24-antivirus-evasion-using-xor-encryption/)
 - [Compression - The Long Way](https://mandarnaik016.in/blog/2023-06-24-compression-the-long-way/)
-- [Ultimate Guide To Block Ads](https://mandarnaik016.in/blog/2023-06-17-ultimate-guide-to-block-ads/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
