@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Malware Analysis - Rozena](https://mandarnaik016.in/blog/2024-10-19-malware-analysis-rozena/)
 - [Malware Analysis - Lumma Stealer](https://mandarnaik016.in/blog/2024-10-05-malware-analysis-lumma-stealer/)
 - [Malware Analysis - PXRECVOWEIWOEI](https://mandarnaik016.in/blog/2024-09-21-malware-analysis-pxrecvoweiwoei/)
 - [Malware Analysis - KMS](https://mandarnaik016.in/blog/2024-09-07-malware-analysis-kms/)
 - [Malware Analysis - AMSI Bypass](https://mandarnaik016.in/blog/2024-06-09-malware-analysis-amsi-bypass/)
-- [Antivirus Evasion - Divide and XOR](https://mandarnaik016.in/blog/2024-03-29-antivirus-evasion-using-divide-and-xor/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
