@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Antivirus Evasion - MSI Abuse](https://mandarnaik016.in/blog/2024-11-23-antivirus-evasion-msi-abuse/)
 - [Malware Analysis - LNK](https://mandarnaik016.in/blog/2024-11-02-malware-analysis-lnk/)
 - [Malware Analysis - Rozena](https://mandarnaik016.in/blog/2024-10-19-malware-analysis-rozena/)
 - [Malware Analysis - Lumma Stealer](https://mandarnaik016.in/blog/2024-10-05-malware-analysis-lumma-stealer/)
 - [Malware Analysis - PXRECVOWEIWOEI](https://mandarnaik016.in/blog/2024-09-21-malware-analysis-pxrecvoweiwoei/)
-- [Malware Analysis - KMS](https://mandarnaik016.in/blog/2024-09-07-malware-analysis-kms/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
