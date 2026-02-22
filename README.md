@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning - Predicting Cyber Attacks](https://mandarnaik016.in/blog/2026-02-22-machine-learning-predicting-cyber-attacks/)
 - [Traffic Analysis - It Is A Trap!](https://mandarnaik016.in/blog/2026-01-24-traffic-analysis-it-is-a-trap/)
 - [Malware Analysis - VIP Keylogger - Part 2](https://mandarnaik016.in/blog/2025-10-25-malware-analysis-vip-keylogger-part2/)
 - [Malware Analysis - VIP Keylogger](https://mandarnaik016.in/blog/2025-10-21-malware-analysis-vip-keylogger/)
 - [Malware Analysis - SVG Abuse](https://mandarnaik016.in/blog/2025-09-13-malware-analysis-svg-abuse/)
-- [Antivirus Evasion - MSI Abuse](https://mandarnaik016.in/blog/2024-11-23-antivirus-evasion-msi-abuse/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
