@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe - Carnage Walkthrough](https://mandarnaik016.in/blog/2026-07-25-tryhackme-carnage-walkthrough/)
 - [Traffic Analysis - Easy As 123](https://mandarnaik016.in/blog/2026-06-20-traffic-analysis-easy-as-123/)
 - [Pi-hole - I Totally Love Ads](https://mandarnaik016.in/blog/2026-03-01-pi-hole-i-totally-love-ads/)
 - [Machine Learning - Predicting Cyber Attacks](https://mandarnaik016.in/blog/2026-02-22-machine-learning-predicting-cyber-attacks/)
 - [Traffic Analysis - It Is A Trap!](https://mandarnaik016.in/blog/2026-01-24-traffic-analysis-it-is-a-trap/)
-- [Malware Analysis - VIP Keylogger - Part 2](https://mandarnaik016.in/blog/2025-10-25-malware-analysis-vip-keylogger-part2/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
