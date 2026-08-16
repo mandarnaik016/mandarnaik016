@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Malware Analysis - Remcos RAT - Part 1](https://mandarnaik016.in/blog/2026-08-16-malware-analysis-remcos-rat-part1/)
 - [TryHackMe - Pressed Walkthrough](https://mandarnaik016.in/blog/2026-08-01-tryhackme-pressed-walkthrough/)
 - [TryHackMe - Carnage Walkthrough](https://mandarnaik016.in/blog/2026-07-25-tryhackme-carnage-walkthrough/)
 - [Traffic Analysis - Easy As 123](https://mandarnaik016.in/blog/2026-06-20-traffic-analysis-easy-as-123/)
 - [Pi-hole - I Totally Love Ads](https://mandarnaik016.in/blog/2026-03-01-pi-hole-i-totally-love-ads/)
-- [Machine Learning - Predicting Cyber Attacks](https://mandarnaik016.in/blog/2026-02-22-machine-learning-predicting-cyber-attacks/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
