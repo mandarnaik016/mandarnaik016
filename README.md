@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Malware Analysis - Phantom Stealer - Part 1](http://mandarnaik016.in/blog/2026-09-19-malware-analysis-phantom-stealer-part1/)
 - [Malware Analysis - Xworm](http://mandarnaik016.in/blog/2026-09-13-malware-analysis-xworm/)
 - [PMA - Basic Static Techniques](http://mandarnaik016.in/blog/2026-09-09-pma-basicstatictechniques/)
 - [Malware Development - Fileless Malware](http://mandarnaik016.in/blog/2026-09-05-malware-development-fileless/)
 - [Malware Analysis - Remcos RAT - Part 1](http://mandarnaik016.in/blog/2026-08-16-malware-analysis-remcos-rat-part1/)
-- [TryHackMe - Pressed Walkthrough](http://mandarnaik016.in/blog/2026-08-01-tryhackme-pressed-walkthrough/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
