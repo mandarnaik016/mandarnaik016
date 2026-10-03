@@ -63,11 +63,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Traffic Analysis - LUMMA IN THE ROOM-AH](http://mandarnaik016.in/blog/2026-10-04-traffic-analysis-lumma-in-the-room-ah/)
 - [Malware Analysis - Phantom Stealer - Part 2](http://mandarnaik016.in/blog/2026-09-27-malware-analysis-phantom-stealer-part2/)
 - [Malware Analysis - Phantom Stealer - Part 1](http://mandarnaik016.in/blog/2026-09-19-malware-analysis-phantom-stealer-part1/)
 - [Malware Analysis - Xworm](http://mandarnaik016.in/blog/2026-09-13-malware-analysis-xworm/)
 - [PMA - Basic Static Techniques](http://mandarnaik016.in/blog/2026-09-09-pma-basicstatictechniques/)
-- [Malware Development - Fileless Malware](http://mandarnaik016.in/blog/2026-09-05-malware-development-fileless/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
