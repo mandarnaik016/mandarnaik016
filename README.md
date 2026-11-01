@@ -29,12 +29,11 @@
 
 ###
 
-- 🔭 I’m currently working on [Pongy](https://github.com/mandarnaik016/Pongy)
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Malware Analysis and Reverse Engineering.**
 - 👨‍💻 All of my projects are available at [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/)
 - 📝 I regularly write articles on [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/)
-- 💬 Ask me about **HTML, CSS, JS, etc**
-- 📫 How to reach me **mandarnaik016@gmail.com**
+- 💬 Ask me about **Programming, Security Automation, System design**
+- 📫 How to reach me **mandarnaik016[at]gmail.com**
 - ⚡ Fun fact **I Am Still Shy Around Girls!** :smiling_face_with_tear:
 
 ###
@@ -51,12 +50,7 @@
 ![](https://img.shields.io/badge/-Bootstrap-6E2CF5?style=for-the-badge&logo=bootstrap&logoColor=fff)
 ![](https://img.shields.io/badge/-Gulp-CF4647?style=for-the-badge&logo=gulp&logoColor=fff)
 ![](https://img.shields.io/badge/-Node-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=fff)
-![](https://img.shields.io/badge/-Notepad++-90E59A?style=for-the-badge&logo=notepadplusplus&logoColor=fff)
-![](https://img.shields.io/badge/-VScodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=fff)
-![](https://img.shields.io/badge/-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=fff)
 ![](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=fff)
-![](https://img.shields.io/badge/-Linux_Mint-87CF3E?style=for-the-badge&logo=linuxmint&logoColor=fff)
-![](https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=fff)
 
 ###
 
@@ -73,8 +67,8 @@
 ###
 <h3 align="left">🔥  Stats</h3>
 
-![mandarnaik016's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=mandarnaik016&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=monokai)](https://github-stats-extended.vercel.app/api/top-langs?username=mandarnaik016&layout=compact&hide_title=true&langs_count=4&hide_values=true&theme=monokai)
 
-![mandarnaik016's Stats](https://github-readme-stats.vercel.app/api?username=mandarnaik016&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=mandarnaik016&hide_title=true&show_icons=true&include_all_commits=true&theme=monokai)](https://github-stats-extended.vercel.app/api?username=mandarnaik016&hide_title=true&show_icons=true&include_all_commits=true&theme=monokai)
 
-![mandarnaik016's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandarnaik016&theme=dark&hide_border=true)
+![mandarnaik016's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mandarnaik016&theme=monokai&hide_border=true)
