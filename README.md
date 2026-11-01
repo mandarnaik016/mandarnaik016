@@ -29,12 +29,12 @@
 
 ###
 
-- 🌱 I’m currently learning **Malware Analysis and Reverse Engineering.**
-- 👨‍💻 All of my projects are available at [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/)
-- 📝 I regularly write articles on [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/)
-- 💬 Ask me about **Programming, Security Automation, System design**
-- 📫 How to reach me **mandarnaik016[at]gmail.com**
-- ⚡ Fun fact **I Am Still Shy Around Girls!** :smiling_face_with_tear:
+- 🌱 I’m currently learning **Malware Analysis and Reverse Engineering**.
+- 👨‍💻 All of my projects are available at [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/).
+- 📝 I regularly write articles on [https://mandarnaik016.github.io/](https://mandarnaik016.github.io/).
+- 💬 Ask me about **Programming, Security Automation, System design**.
+- 📫 How to reach me **mandarnaik016[at]gmail.com**.
+- ⚡ Fun fact **I Am Still Shy Around Girls!** :smiling_face_with_tear:.
 
 ###
 
