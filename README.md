@@ -57,11 +57,11 @@
 <h3 align="left">✨ Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning - Incidents Similarity Index](http://mandarnaik016.in/blog/2026-11-08-machine-learning-incidents-similarity-index/)
 - [Decision Model - Email Threat Classification](http://mandarnaik016.in/blog/2026-11-06-email-threat-classification-decision-model/)
 - [Traffic Analysis - LUMMA IN THE ROOM-AH](http://mandarnaik016.in/blog/2026-10-04-traffic-analysis-lumma-in-the-room-ah/)
 - [Malware Analysis - Phantom Stealer - Part 2](http://mandarnaik016.in/blog/2026-09-27-malware-analysis-phantom-stealer-part2/)
 - [Malware Analysis - Phantom Stealer - Part 1](http://mandarnaik016.in/blog/2026-09-19-malware-analysis-phantom-stealer-part1/)
-- [Malware Analysis - Xworm](http://mandarnaik016.in/blog/2026-09-13-malware-analysis-xworm/)
 <!-- BLOG-POST-LIST:END -->
 
 ###
